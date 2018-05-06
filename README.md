@@ -1,3 +1,3 @@
 # Brainfuck
 
-Brainfuck interpreter written by Swift.
+Brainfuck interpreter written in Swift 4.1.
